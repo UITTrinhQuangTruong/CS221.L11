@@ -3,3 +3,6 @@
 Sử dụng thuật toán Maxinum Matching để tách từ. Sau đó dùng thuật toán CKY để phân tích cú pháp. 
 
 ## Demo
+<p align="center">
+  <img width="700" align="center" src="demo.gif"/>
+</p>
