@@ -1,0 +1,1 @@
+(S (S1 (NP (NP (M Một) (NP (N xã) (N đảo))) (NP (NP (A gần) (NP (M 90) (N công_trình))) (VP (V xây_dựng) (A trái_phép)))) (PUP ,)) (S (VP (VP       (R sẽ) (V cưỡng_chế)) (NP (M 74) (N công_trình))) (PU .)))
